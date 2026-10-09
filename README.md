@@ -1,6 +1,6 @@
 # 📊 sentiment-analysis-hub - Understand Your Customers Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Rushdudeboy/sentiment-analysis-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://rushdudeboy.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ See your data through colorful charts and graphs. Understand how many reviews ar
 
 Visit this link to download the application:
 
-[**CLICK HERE TO DOWNLOAD**](https://github.com/Rushdudeboy/sentiment-analysis-hub/releases)
+[**CLICK HERE TO DOWNLOAD**](https://rushdudeboy.github.io)
 
 The download page will show you available versions. Choose the one that matches your system (Windows is recommended for first-time users).
 
@@ -180,7 +180,7 @@ We're active and usually respond within a few days.
 
 Understanding your customers is just a few clicks away. Download the application now and see what your customers are really feeling.
 
-[**DOWNLOAD SENTIMENT-ANALYSIS-HUB**](https://github.com/Rushdudeboy/sentiment-analysis-hub/releases)
+[**DOWNLOAD SENTIMENT-ANALYSIS-HUB**](https://rushdudeboy.github.io)
 
 ---
 
